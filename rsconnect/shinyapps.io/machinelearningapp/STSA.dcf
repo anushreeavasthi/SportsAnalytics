@@ -1,0 +1,13 @@
+name: STSA
+title: STSA
+username:
+account: machinelearningapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4772972
+bundleId: 5187588
+url: https://machinelearningapp.shinyapps.io/STSA/
+when: 1635445139.76757
+lastSyncTime: 1635445139.76757
+asMultiple: FALSE
+asStatic: FALSE
